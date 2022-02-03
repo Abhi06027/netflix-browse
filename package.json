@@ -1,5 +1,6 @@
 {
   "name": "netflix",
+  "homepage": "https://Abhi06027.github.io/netflix-browse",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
